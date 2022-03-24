@@ -1,0 +1,11 @@
+{
+    "name": "Seondok",
+    "features": [
+        "Integration",
+        "Gathering",
+        "Attack"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

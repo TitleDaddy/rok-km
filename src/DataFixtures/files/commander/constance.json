@@ -1,0 +1,11 @@
+{
+    "name": "Constance",
+    "features": [
+        "Integration",
+        "Gathering",
+        "Skill"
+    ],
+    "rarity": "Elite",
+    "obtained_from": "Expedition",
+    "kingdom_age": 1
+}

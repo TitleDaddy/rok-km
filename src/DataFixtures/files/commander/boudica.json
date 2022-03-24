@@ -1,0 +1,11 @@
+{
+    "name": "Boudica",
+    "features": [
+        "Integration",
+        "Peacekeeping",
+        "Skill"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

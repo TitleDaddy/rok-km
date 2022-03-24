@@ -1,0 +1,11 @@
+{
+  "name": "Moctezuma",
+  "features": [
+    "Leadership",
+    "Peacekeeping",
+    "Skill"
+  ],
+  "rarity": "Legendary",
+  "obtained_from": "Mightiest Governor",
+  "kingdom_age": 310
+}

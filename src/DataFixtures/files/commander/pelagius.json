@@ -1,0 +1,11 @@
+{
+    "name": "Pelagius",
+    "features": [
+        "Cavalry",
+        "Garrison",
+        "Skill"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

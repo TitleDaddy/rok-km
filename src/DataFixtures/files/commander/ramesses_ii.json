@@ -1,0 +1,11 @@
+{
+    "name": "Ramesses II",
+    "features": [
+        "Archer",
+        "Versatility",
+        "Attack"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Wheel of Fortune",
+    "kingdom_age": 310
+}

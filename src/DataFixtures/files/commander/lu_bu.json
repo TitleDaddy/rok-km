@@ -1,0 +1,11 @@
+{
+    "name": "Lu Bu",
+    "features": [
+        "Leadership",
+        "Conquering",
+        "Skill"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Store Bundles",
+    "kingdom_age": 1
+}

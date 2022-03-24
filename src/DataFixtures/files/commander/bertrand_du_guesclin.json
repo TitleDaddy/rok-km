@@ -1,0 +1,11 @@
+{
+  "name": "Bertrand du Guesclin",
+  "features": [
+    "Cavalry",
+    "Conquering",
+    "Defense"
+  ],
+  "rarity": "Legendary",
+  "obtained_from": "Mightiest Governor",
+  "kingdom_age": 310
+}

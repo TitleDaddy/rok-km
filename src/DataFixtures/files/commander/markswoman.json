@@ -1,0 +1,11 @@
+{
+    "name": "Markswoman",
+    "features": [
+        "Archer",
+        "Peacekeeping",
+        "Skill"
+    ],
+    "rarity": "Advanced",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

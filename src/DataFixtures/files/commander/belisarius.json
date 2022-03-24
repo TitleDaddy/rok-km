@@ -1,0 +1,11 @@
+{
+    "name": "Belisarius",
+    "features": [
+        "Cavalry",
+        "Peacekeeping",
+        "Mobility"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

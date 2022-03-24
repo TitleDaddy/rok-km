@@ -1,0 +1,22 @@
+{% extends '@AdminLTE/layout/default-layout.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    {{ encore_entry_link_tags('app') }}
+
+    {% block javascripts %}
+        {{ parent() }}
+        {{ encore_entry_script_tags('app') }}
+    {% endblock %}
+{% endblock %}
+
+{% block page_title %}Rise of Kingdoms Manager{% endblock %}
+
+
+{% block page_content_class %}{{ parent() }} dashboard{% endblock %}
+
+{% block page_content %}
+    <div id="page-body">
+        {% block page_body %}{% endblock %}
+    </div>
+{% endblock %}

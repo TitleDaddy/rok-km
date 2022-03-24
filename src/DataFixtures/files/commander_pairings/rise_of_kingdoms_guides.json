@@ -1,0 +1,818 @@
+[
+  {
+    "primary":"Alexander Nevsky",
+    "secondary":"Xiang Yu"
+  },
+  {
+    "primary": "Alexander Nevsky",
+    "secondary": "William I"
+  },
+  {
+    "primary": "Alexander Nevsky",
+    "secondary": "Bertrand du Guesclin"
+  },
+  {
+    "primary":"Jadwiga",
+    "secondary":"Saladin"
+  },
+  {
+    "primary": "Jadwiga",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary": "Jadwiga",
+    "secondary": "Theodora"
+  },
+  {
+    "primary":"Xiang Yu",
+    "secondary":"Alexander Nevsky"
+  },
+  {
+    "primary": "Xiang Yu",
+    "secondary": "Chandragupta Maurya"
+  },
+  {
+    "primary": "Xiang Yu",
+    "secondary": "William I"
+  },
+  {
+    "primary":"Chandragupta Maurya",
+    "secondary":"Xiang Yu"
+  },
+  {
+    "primary": "Chandragupta Maurya",
+    "secondary": "Alexander Nevsky"
+  },
+  {
+    "primary": "Chandragupta Maurya",
+    "secondary": "William I"
+  },
+  {
+    "primary":"Pelagius",
+    "secondary":"Baibars"
+  },
+  {
+    "primary": "Pelagius",
+    "secondary": "Minamoto no Yoshitsune"
+  },
+  {
+    "primary": "Pelagius",
+    "secondary": "Cao Cao"
+  },
+  {
+    "primary":"Baibars",
+    "secondary":"Aethelflaed"
+  },
+  {
+    "primary": "Baibars",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary": "Baibars",
+    "secondary": "Minamoto no Yoshitsune"
+  },
+  {
+    "primary":"Belisarius",
+    "secondary":"Cao Cao"
+  },
+  {
+    "primary": "Belisarius",
+    "secondary": "Baibars"
+  },
+  {
+    "primary": "Belisarius",
+    "secondary": "Pelagius"
+  },
+  {
+    "primary":"Minamoto no Yoshitsune",
+    "secondary":"Cao Cao"
+  },
+  {
+    "primary": "Minamoto no Yoshitsune",
+    "secondary": "Pelagius"
+  },
+  {
+    "primary": "Minamoto no Yoshitsune",
+    "secondary": "Baibars"
+  },
+  {
+    "primary": "Attila",
+    "secondary": "Saladin"
+  },
+  {
+    "primary":"Genghis Khan",
+    "secondary":"Saladin"
+  },
+  {
+    "primary": "Genghis Khan",
+    "secondary": "Pelagius"
+  },
+  {
+    "primary": "Genghis Khan",
+    "secondary": "Cao Cao"
+  },
+  {
+    "primary":"Aethelflaed",
+    "secondary":"Sun Tzu"
+  },
+  {
+    "primary": "Aethelflaed",
+    "secondary": "Joan of Arc"
+  },
+  {
+    "primary": "Aethelflaed",
+    "secondary": "Baibars"
+  },
+  {
+    "primary":"Saladin",
+    "secondary":"Genghis Khan"
+  },
+  {
+    "primary": "Saladin",
+    "secondary": "Cao Cao"
+  },
+  {
+    "primary": "Saladin",
+    "secondary": "William I"
+  },
+  {
+    "primary":"Cao Cao",
+    "secondary":"Minamoto no Yoshitsune"
+  },
+  {
+    "primary": "Cao Cao",
+    "secondary": "Belisarius"
+  },
+  {
+    "primary": "Cao Cao",
+    "secondary": "Saladin"
+  },
+  {
+    "primary":"Harald Sigurdsson",
+    "secondary":"Alexander The Great"
+  },
+  {
+    "primary": "Harald Sigurdsson",
+    "secondary": "Charles Martel"
+  },
+  {
+    "primary": "Harald Sigurdsson",
+    "secondary": "Constantine I"
+  },
+  {
+    "primary":"Sun Tzu",
+    "secondary":"Richard I"
+  },
+  {
+    "primary": "Sun Tzu",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Sun Tzu",
+    "secondary": "Aethelflaed"
+  },
+  {
+    "primary":"Richard I",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Alexander The Great"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Constantine I"
+  },
+  {
+    "primary":"Charles Martel",
+    "secondary":"Richard I"
+  },
+  {
+    "primary": "Charles Martel",
+    "secondary": "Constantine I"
+  },
+  {
+    "primary": "Charles Martel",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary":"Alexander The Great",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Alexander The Great",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Alexander The Great",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"Constantine I",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Constantine I",
+    "secondary": "Alexander The Great"
+  },
+  {
+    "primary": "Constantine I",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"Guan Yu",
+    "secondary":"Alexander The Great"
+  },
+  {
+    "primary": "Guan Yu",
+    "secondary": "Cheok Jun-gyeong"
+  },
+  {
+    "primary": "Guan Yu",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary":"Leonidas I",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Leonidas I",
+    "secondary": "Alexander The Great"
+  },
+  {
+    "primary": "Leonidas I",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"K'inch Janaab Pakal",
+    "secondary":"Cheok Jun-gyeong"
+  },
+  {
+    "primary": "K'inch Janaab Pakal",
+    "secondary": "Guan Yu"
+  },
+  {
+    "primary": "K'inch Janaab Pakal",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary":"Cheok Jun-gyeong",
+    "secondary":"Guan Yu"
+  },
+  {
+    "primary": "Cheok Jun-gyeong",
+    "secondary": "K'inch Janaab Pakal"
+  },
+  {
+    "primary": "Cheok Jun-gyeong",
+    "secondary": "Alexander The Great"
+  },
+  {
+    "primary":"Honda Tadakatsu",
+    "secondary":"Suleiman I"
+  },
+  {
+    "primary": "Honda Tadakatsu",
+    "secondary": "Trajan"
+  },
+  {
+    "primary":"Trajan",
+    "secondary":"Honda Tadakatsu"
+  },
+  {
+    "primary": "Trajan",
+    "secondary": "Harald Sigurdsson"
+  },
+  {
+    "primary": "Trajan",
+    "secondary": "Charles Martel"
+  },
+  {
+    "primary":"Nebuchadnezzar II",
+    "secondary":"Cyrus the Great"
+  },
+  {
+    "primary": "Nebuchadnezzar II",
+    "secondary": "Aminatore"
+  },
+  {
+    "primary": "Nebuchadnezzar II",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Aminatore",
+    "secondary":"Artemisia"
+  },
+  {
+    "primary": "Aminatore",
+    "secondary": "Nebuchadnezzar II"
+  },
+  {
+    "primary": "Aminatore",
+    "secondary": "Cyrus the Great"
+  },
+  {
+    "primary":"Gilgamesh",
+    "secondary":"Cyrus the Great"
+  },
+  {
+    "primary": "Gilgamesh",
+    "secondary": "Nebuchadnezzar II"
+  },
+  {
+    "primary": "Gilgamesh",
+    "secondary": "Aminatore"
+  },
+  {
+    "primary":"Yi Seong-Gye",
+    "secondary":"Ramesses II"
+  },
+  {
+    "primary": "Yi Seong-Gye",
+    "secondary": "Hermann"
+  },
+  {
+    "primary": "Yi Seong-Gye",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"Hermann",
+    "secondary":"Yi Seong-Gye"
+  },
+  {
+    "primary": "Hermann",
+    "secondary": "Kusonoki Masashige"
+  },
+  {
+    "primary": "Hermann",
+    "secondary": "El Cid"
+  },
+  {
+    "primary":"Kusonoki Masashige",
+    "secondary":"Yi Seong-Gye"
+  },
+  {
+    "primary": "Kusonoki Masashige",
+    "secondary": "Hermann"
+  },
+  {
+    "primary":"El Cid",
+    "secondary":"Artemisia"
+  },
+  {
+    "primary": "El Cid",
+    "secondary": "Hermann"
+  },
+  {
+    "primary": "El Cid",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Artemisia",
+    "secondary":"El Cid"
+  },
+  {
+    "primary": "Artemisia",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Artemisia",
+    "secondary": "Hermann"
+  },
+  {
+    "primary":"Ramesses II",
+    "secondary":"Yi Seong-Gye"
+  },
+  {
+    "primary": "Ramesses II",
+    "secondary": "Artemisia"
+  },
+  {
+    "primary": "Ramesses II",
+    "secondary": "Hermann"
+  },
+  {
+    "primary":"Edward of Woodstock",
+    "secondary":"Tomyris"
+  },
+  {
+    "primary": "Edward of Woodstock",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Edward of Woodstock",
+    "secondary": "Ramesses II"
+  },
+  {
+    "primary":"Cyrus the Great",
+    "secondary":"Nebuchadnezzar II"
+  },
+  {
+    "primary": "Cyrus the Great",
+    "secondary": "Aminatore"
+  },
+  {
+    "primary": "Cyrus the Great",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Belisarius",
+    "secondary":"Cao Cao"
+  },
+  {
+    "primary": "Belisarius",
+    "secondary": "Aethelflaed"
+  },
+  {
+    "primary": "Belisarius",
+    "secondary": "Minamoto no Yoshitsune"
+  },
+  {
+    "primary":"Boudica",
+    "secondary":"Cao Cao"
+  },
+  {
+    "primary": "Boudica",
+    "secondary": "Minamoto no Yoshitsune"
+  },
+  {
+    "primary": "Boudica",
+    "secondary": "Aethelflaed"
+  },
+  {
+    "primary":"Minamoto no Yoshitsune",
+    "secondary":"Cao Cao"
+  },
+  {
+    "primary": "Minamoto no Yoshitsune",
+    "secondary": "Aethelflaed"
+  },
+  {
+    "primary": "Minamoto no Yoshitsune",
+    "secondary": "Belisarius"
+  },
+  {
+    "primary":"Aethelflaed",
+    "secondary":"Minamoto no Yoshitsune"
+  },
+  {
+    "primary": "Aethelflaed",
+    "secondary": "Cao Cao"
+  },
+  {
+    "primary": "Aethelflaed",
+    "secondary": "Boudica"
+  },
+  {
+    "primary":"Jadwiga",
+    "secondary":"Saladin"
+  },
+  {
+    "primary": "Jadwiga",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary": "Jadwiga",
+    "secondary": "Theodora"
+  },
+  {
+    "primary":"Aminatore",
+    "secondary":"Artemisia"
+  },
+  {
+    "primary": "Aminatore",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary": "Aminatore",
+    "secondary": "Nebuchadnezzar II"
+  },
+  {
+    "primary":"Richard I",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Constantine I"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Charles Martel",
+    "secondary":"Richard I"
+  },
+  {
+    "primary": "Charles Martel",
+    "secondary": "Constantine I"
+  },
+  {
+    "primary": "Charles Martel",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Constantine I",
+    "secondary":"Wu Zetian"
+  },
+  {
+    "primary": "Constantine I",
+    "secondary": "Charles Martel"
+  },
+  {
+    "primary": "Constantine I",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"Wu Zetian",
+    "secondary":"Constantine I"
+  },
+  {
+    "primary": "Wu Zetian",
+    "secondary": "Charles Martel"
+  },
+  {
+    "primary": "Wu Zetian",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Artemisia",
+    "secondary":"El Cid"
+  },
+  {
+    "primary": "Artemisia",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Artemisia",
+    "secondary": "Aminatore"
+  },
+  {
+    "primary":"Theodora",
+    "secondary":"Zenobia"
+  },
+  {
+    "primary": "Theodora",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary": "Theodora",
+    "secondary": "Wu Zetian"
+  },
+  {
+    "primary":"Zenobia",
+    "secondary":"Theodora"
+  },
+  {
+    "primary": "Zenobia",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary": "Zenobia",
+    "secondary": "Wu Zetian"
+  },
+  {
+    "primary":"Yi Sun-sin",
+    "secondary":"Theodora"
+  },
+  {
+    "primary": "Yi Sun-sin",
+    "secondary": "Zenobia"
+  },
+  {
+    "primary": "Yi Sun-sin",
+    "secondary": "Wu Zetian"
+  },
+  {
+    "primary":"Wu Zetian",
+    "secondary":"Theodora"
+  },
+  {
+    "primary": "Wu Zetian",
+    "secondary": "Zenobia"
+  },
+  {
+    "primary": "Wu Zetian",
+    "secondary": "Yi Sun-sin"
+  },
+  {
+    "primary":"Gilgamesh",
+    "secondary":"Cyrus the Great"
+  },
+  {
+    "primary": "Gilgamesh",
+    "secondary": "Nebuchadnezzar II"
+  },
+  {
+    "primary": "Gilgamesh",
+    "secondary": "Aminatore"
+  },
+  {
+    "primary":"Richard I",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Alexander The Great"
+  },
+  {
+    "primary": "Richard I",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Saladin",
+    "secondary":"Attila"
+  },
+  {
+    "primary": "Saladin",
+    "secondary": "Genghis Khan"
+  },
+  {
+    "primary": "Saladin",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Chandragupta Maurya",
+    "secondary":"Xiang Yu"
+  },
+  {
+    "primary": "Chandragupta Maurya",
+    "secondary": "Alexander Nevsky"
+  },
+  {
+    "primary": "Chandragupta Maurya",
+    "secondary": "William I"
+  },
+  {
+    "primary":"Attila",
+    "secondary":"Takeda Shingen"
+  },
+  {
+    "primary": "Attila",
+    "secondary": "Saladin"
+  },
+  {
+    "primary":"Yi Seong-Gye",
+    "secondary":"Ramesses II"
+  },
+  {
+    "primary": "Yi Seong-Gye",
+    "secondary": "Edward of Woodstock"
+  },
+  {
+    "primary": "Yi Seong-Gye",
+    "secondary": "Artemisia"
+  },
+  {
+    "primary":"Edward of Woodstock",
+    "secondary":"Tomyris"
+  },
+  {
+    "primary": "Edward of Woodstock",
+    "secondary": "Ramesses II"
+  },
+  {
+    "primary": "Edward of Woodstock",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary":"Guan Yu",
+    "secondary":"Alexander The Great"
+  },
+  {
+    "primary": "Guan Yu",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Guan Yu",
+    "secondary": "Leonidas I"
+  },
+  {
+    "primary":"Ramesses II",
+    "secondary":"Yi Seong-Gye"
+  },
+  {
+    "primary": "Ramesses II",
+    "secondary": "Artemisia"
+  },
+  {
+    "primary": "Ramesses II",
+    "secondary": "Edward of Woodstock"
+  },
+  {
+    "primary":"Alexander The Great",
+    "secondary":"Charles Martel"
+  },
+  {
+    "primary": "Alexander The Great",
+    "secondary": "Yi Seong-Gye"
+  },
+  {
+    "primary": "Alexander The Great",
+    "secondary": "Richard I"
+  },
+  {
+    "primary":"Alexander Nevsky",
+    "secondary":"Xiang Yu"
+  },
+  {
+    "primary": "Alexander Nevsky",
+    "secondary": "William I"
+  },
+  {
+    "primary": "Alexander Nevsky",
+    "secondary": "Bertrand du Guesclin"
+  },
+  {
+    "primary":"Xiang Yu",
+    "secondary":"Alexander Nevsky"
+  },
+  {
+    "primary": "Xiang Yu",
+    "secondary": "Chandragupta Maurya"
+  },
+  {
+    "primary": "Xiang Yu",
+    "secondary": "William I"
+  },
+  {
+    "primary":"Pelagius",
+    "secondary":"Baibars"
+  },
+  {
+    "primary": "Pelagius",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary": "Pelagius",
+    "secondary": "Osman I"
+  },
+  {
+    "primary":"Belisarius",
+    "secondary":"Baibars"
+  },
+  {
+    "primary": "Belisarius",
+    "secondary": "Pelagius"
+  },
+  {
+    "primary":"Sun Tzu",
+    "secondary":"Eulji Mundeok"
+  },
+  {
+    "primary": "Sun Tzu",
+    "secondary": "Osman I"
+  },
+  {
+    "primary": "Sun Tzu",
+    "secondary": "Scipio Africanus"
+  },
+  {
+    "primary":"Eulji Mundeok",
+    "secondary":"Osman I"
+  },
+  {
+    "primary": "Eulji Mundeok",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary": "Eulji Mundeok",
+    "secondary": "Scipio Africanus"
+  },
+  {
+    "primary":"Hermann",
+    "secondary":"Kusonoki Masashige"
+  },
+  {
+    "primary": "Hermann",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary": "Hermann",
+    "secondary": "Boudica"
+  },
+  {
+    "primary":"Kusonoki Masashige",
+    "secondary":"Hermann"
+  },
+  {
+    "primary": "Kusonoki Masashige",
+    "secondary": "Sun Tzu"
+  },
+  {
+    "primary": "Kusonoki Masashige",
+    "secondary": "Boudica"
+  },
+  {
+    "primary":"Diaochan",
+    "secondary":"Joan of Arc"
+  },
+  {
+    "primary": "Diaochan",
+    "secondary": "Lohar"
+  },
+  {
+    "primary": "Diaochan",
+    "secondary": "Cao Cao"
+  }
+]

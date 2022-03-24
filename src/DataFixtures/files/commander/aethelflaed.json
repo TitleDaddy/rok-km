@@ -1,0 +1,67 @@
+{
+    "name": "Aethelflaed",
+    "features": [
+        "Leadership",
+        "Peacekeeping",
+        "Support"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Expedition",
+    "kingdom_age": 1,
+    "skills": [
+        {
+            "index": 1,
+            "name": "Arrow of Iron",
+            "description": "Deals damage to a single target and reduce the target’s attack, defense and health for 5 seconds. Next, deals damage in a front-facing cone to up to 5 enemies and reduces their attack, defense and health for 2 seconds.",
+            "upgrades": [
+                "Direct Damage Factor: 400/500/600/700/800",
+                "Attack, Defense and Health Reduction: 10%/15%/20%/25%/30%"
+            ],
+            "type": "Active"
+        },
+        {
+            "index": 2,
+            "name": "Thunderous Force",
+            "description": "Counterattack damage against your troops is reduced. When actively attacking, you have a 10% chance to reduce the movement speed of enemy cavalry and the movement speed of other troops. Slow effect lasts 3 rounds.",
+            "upgrades": [
+                "Counterattack Damage Taken Reduction: 5%/8%/11%/15%/20%",
+                "Cavalry March Speed Reduction: 20%/25%/30%/40%/50%",
+                "Other Unit March Speed Reduction: 10%/15%/20%/25%/30%"
+            ],
+            "type": "Passive"
+        },
+        {
+            "index": 3,
+            "name": "Synergy",
+            "description": "All troops under your command gain attack against Barbarians and other neutral units, and all Commanders get EXP bonus.",
+            "upgrades": [
+                "Bonus Damage to Barbarians: 5%/10%/17%/25%/35%",
+                "Experience Bonus: 5%/10%/17%/25%/35%"
+            ],
+            "type": "Passive"
+        },
+        {
+            "index": 4,
+            "name": "Fortress of Mercia",
+            "description": "When this Commander leads a rally attack, all armies joining the rally have higher troop limit. When this Commander is leading at least 3 different troop types, their damage is increased.",
+            "upgrades": [
+                "Rallied Army Capacity Bonus: 2%/4%/6%/8%/10%",
+                "Bonus Damage (3 Unit Types): 5%/8%/11%/15%/20%"
+            ],
+            "type": "Passive"
+        },
+        {
+            "index": 5,
+            "name": "Warrior Queen",
+            "description": "Deal an extra 20% damage to enemies who have been slowed.",
+            "upgrades": [],
+            "type": "Expertise"
+        }
+    ],
+    "talent_trees": {
+        "Mixed Troops": "https://cdn.rok.guide/wp-content/uploads/2019/06/aethelflaed-mixed-troops-talent-tree.jpg",
+        "Single Troop Type": "https://cdn.rok.guide/wp-content/uploads/2019/06/aethelflaed-specific-troops-talent-tree.jpg",
+        "Sunset Canyon": "https://www.allclash.com/wp-content/uploads/2020/01/rise-of-kingdoms-aethelflaed-open-field-build.jpg?ezimgfmt=ng:webp/ngcb23",
+        "Barbarian Hunting": "https://www.allclash.com/wp-content/uploads/2020/01/rise-of-kingdoms-aethelflaed-barbarian-forts-build.jpg?ezimgfmt=ng:webp/ngcb23"
+    }
+}

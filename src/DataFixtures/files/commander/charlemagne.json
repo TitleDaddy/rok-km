@@ -1,0 +1,11 @@
+{
+    "name": "Charlemagne",
+    "features": [
+        "Leadership",
+        "Conquering",
+        "Skill"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Kingdom vs Kingdom",
+    "kingdom_age": 90
+}

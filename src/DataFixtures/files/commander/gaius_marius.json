@@ -1,0 +1,11 @@
+{
+    "name": "Gaius Marius",
+    "features": [
+        "Leadership",
+        "Gathering",
+        "Skill"
+    ],
+    "rarity": "Elite",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Leonidas I",
+    "features": [
+        "Infantry",
+        "Versatility",
+        "Defense"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Mightiest Governor",
+    "kingdom_age": 310
+}

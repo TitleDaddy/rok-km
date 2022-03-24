@@ -1,0 +1,11 @@
+{
+    "name": "Saladin",
+    "features": [
+        "Cavalry",
+        "Conquering",
+        "Support"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Mightiest Governor",
+    "kingdom_age": 140
+}

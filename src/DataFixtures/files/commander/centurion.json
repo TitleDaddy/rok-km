@@ -1,0 +1,11 @@
+{
+    "name": "Centurion",
+    "features": [
+        "Cavalry",
+        "Peacekeeping",
+        "Mobility"
+    ],
+    "rarity": "Advanced",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

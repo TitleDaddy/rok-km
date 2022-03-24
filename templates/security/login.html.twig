@@ -1,0 +1,38 @@
+<!DOCTYPE html{% block html_start %}{% endblock %}>
+<html>
+<head>
+    {% block head %}
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    {% endblock %}
+    <title>{% block title %}AdminLTE 2 | Log in{% endblock %}</title>
+    {% block stylesheets %}
+        <link rel="stylesheet" href="{{ asset('bundles/adminlte/adminlte.css') }}">
+    {% endblock %}
+</head>
+<body{% block body_start %}{% endblock %} class="hold-transition login-page">
+{% block after_body_start %}{% endblock %}
+{% block login_box %}
+    <div class="login-box">
+        <div class="login-logo">
+            {% block logo_login %}<b>User</b>Kingdom Manager{% endblock %}
+        </div>
+        <div class="login-box-body">
+            {% block login_social_auth %}
+                <div class="social-auth-links text-center">
+                    <a href="{{ path('security_oauth_discord_connect_start') }}" class="btn btn-block btn-social btn-primary btn-flat"><i class="fab fa-discord"></i>
+                        {{ 'Sign in using Discord'|trans({}, 'AdminLTEBundle') }}
+                    </a>
+                </div>
+            {% endblock %}
+        </div>
+    </div>
+{% endblock %}
+
+{% block javascripts %}
+    <script src="{{ asset('bundles/adminlte/adminlte.js') }}"></script>
+{% endblock %}
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+    "name": "Cao Cao",
+    "features": [
+        "Cavalry",
+        "Peacekeeping",
+        "Mobility"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

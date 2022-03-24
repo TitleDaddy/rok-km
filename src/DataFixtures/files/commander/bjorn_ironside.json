@@ -1,0 +1,11 @@
+{
+    "name": "Bjorn Ironside",
+    "features": [
+        "Infantry",
+        "Conquering",
+        "Skill"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

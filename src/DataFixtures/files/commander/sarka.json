@@ -1,0 +1,11 @@
+{
+  "name": "Sarka",
+  "features": [
+    "Integration",
+    "Gathering",
+    "Skill"
+  ],
+  "rarity": "Elite",
+  "obtained_from": "Tavern",
+  "kingdom_age": 1
+}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Rise of Kingdoms Kingdom Manager!{% endblock %}</title>
+    {% block stylesheets %}
+        {{ encore_entry_link_tags('react') }}
+
+        {% block javascripts %}
+            {{ encore_entry_script_tags('react') }}
+        {% endblock %}
+    {% endblock %}
+</head>
+<body>
+<div id="root"></div>
+</body>
+</html>

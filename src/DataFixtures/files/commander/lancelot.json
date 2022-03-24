@@ -1,0 +1,11 @@
+{
+    "name": "Lancelot",
+    "features": [
+        "Cavalry",
+        "Versatility",
+        "Mobility"
+    ],
+    "rarity": "Elite",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

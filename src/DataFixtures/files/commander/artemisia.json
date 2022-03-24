@@ -1,0 +1,11 @@
+{
+    "name": "Artemisia",
+    "features": [
+        "Archer",
+        "Garrison",
+        "Defense"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Mightiest Governor",
+    "kingdom_age": 310
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Hannibal Barca",
+    "features": [
+        "Leadership",
+        "Conquering",
+        "Attack"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "VIP Bundle",
+    "kingdom_age": 1
+}

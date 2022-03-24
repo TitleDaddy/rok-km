@@ -1,0 +1,11 @@
+{
+    "name": "Mulan",
+    "features": [
+        "Integration",
+        "Peacekeeping",
+        "Support"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

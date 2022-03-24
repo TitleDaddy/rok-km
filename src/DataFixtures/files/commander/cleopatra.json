@@ -1,0 +1,11 @@
+{
+    "name": "Cleopatra VII",
+    "features": [
+        "Integration",
+        "Gathering",
+        "Support"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

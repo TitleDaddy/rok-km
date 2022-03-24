@@ -1,0 +1,11 @@
+{
+    "name": "Matilda of Flanders",
+    "features": [
+        "Integration",
+        "Gathering",
+        "Defense"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

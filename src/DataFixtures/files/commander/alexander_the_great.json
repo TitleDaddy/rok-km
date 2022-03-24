@@ -1,0 +1,11 @@
+{
+    "name": "Alexander The Great",
+    "features": [
+        "Infantry",
+        "Versatility",
+        "Attack"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Wheel of Fortune",
+    "kingdom_age": 140
+}

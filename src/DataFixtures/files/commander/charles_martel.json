@@ -1,0 +1,11 @@
+{
+    "name": "Charles Martel",
+    "features": [
+        "Infantry",
+        "Garrison",
+        "Defense"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

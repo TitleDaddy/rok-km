@@ -1,0 +1,11 @@
+{
+    "name": "Osman I",
+    "features": [
+        "Leadership",
+        "Conquering",
+        "Skill"
+    ],
+    "rarity": "Epic",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Richard I",
+    "features": [
+        "Infantry",
+        "Garrison",
+        "Defense"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Wheel of Fortune",
+    "kingdom_age": 1
+}

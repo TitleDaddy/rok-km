@@ -1,0 +1,24 @@
+framework:
+    messenger:
+        default_bus: async.bus
+        failure_transport: failed
+        buses:
+            command.bus:
+                middleware:
+                    - doctrine_transaction
+            query.bus:
+                middleware:
+                    - doctrine_transaction
+            event.bus:
+                middleware:
+                    - doctrine_transaction
+            async.bus:
+                middleware:
+                    - doctrine_transaction
+        transports:
+            async: '%env(MESSENGER_TRANSPORT_DSN)%'
+            failed: 'doctrine://default?queue_name=failed'
+            sync: 'sync://'
+        routing:
+            # Route your messages to the transports
+            # 'App\Message\YourMessage': async

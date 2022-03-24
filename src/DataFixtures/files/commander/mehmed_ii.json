@@ -1,0 +1,11 @@
+{
+    "name": "Mehmed II",
+    "features": [
+        "Leadership",
+        "Conquering",
+        "Skill"
+    ],
+    "rarity": "Legendary",
+    "obtained_from": "Tavern",
+    "kingdom_age": 1
+}

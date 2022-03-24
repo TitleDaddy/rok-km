@@ -1,0 +1,8 @@
+{% extends 'base.html.twig' %}
+
+{% block page_subtitle %} {{ title }} {% endblock %}
+
+{% block page_body %}
+<div {{ stimulus_controller(controller, {props: props is defined ? props : null}) }}>
+</div>
+{% endblock %}
